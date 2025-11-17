@@ -8,7 +8,6 @@
 
 ### Essence
 
-text
 > observing systems • decrypting patterns • engineering quietly
 
 🧠 interested in cybersecurity, systems, and intelligent automation
